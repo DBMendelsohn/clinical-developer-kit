@@ -1,7 +1,7 @@
 # ClinDevKit: The Crowdsourced Clinical Developer Reading List
 A list of resources to help you build your clinical applications and algorithms
 
-## Found a great resource? Add it by submitting a Pull Request!
+### Found a great resource? Add it by submitting a Pull Request!
 
 <a href="http://twitter.com/home?status=Check%20out%20this%20sweet%20Clinical%20Developer%20Kit:%20https://github.com/ElektraLabs/clinical-developer-kit">Tweet about this list!</a>
 
