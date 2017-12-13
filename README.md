@@ -1,4 +1,4 @@
-# ClinDevKit: The Crowdsourced Clinical Developer Reading List & Toolkit 
+# ClinDevKit: The Crowdsourced Clinical Developer Reading List
 A list of resources to help you build your clinical applications and algorithms
 
 ## Found a great resource? Add it by submitting a Pull Request!
