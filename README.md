@@ -85,6 +85,7 @@ A list of resources to help you build your clinical applications and algorithms
 - [TrueVault](https://www.truevault.com/)
 - [AWS Health](https://aws.amazon.com/health/)
 - [Google Health](https://www.google.com/intl/en_us/health/about/)
+- [Datica (formerly Catalyze.io)](https://datica.com/)
 
 #### Decentralized Apps/Protocols
 - [Healthcare Blockchains GitHub Repo](https://github.com/acoravos/healthcare-blockchains)
