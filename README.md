@@ -60,6 +60,7 @@ A list of resources to help you build your clinical applications and algorithms
 - [The Asthma Mobile Health Study, a large-scale clinical observational study using ResearchKit](http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3826.html)
 - [How Should the FDA Regulate a Self-Improving Algorithm?](https://www.theatlantic.com/technology/archive/2017/10/algorithms-future-of-health-care/543825/)
 - [Software-Enabled Clinical Trials](https://blog.andreacoravos.com/software-enabled-clinical-trials-8da53f4cd271)
+- [The Smart Medicine Solution to the Health Care Crisis by Eric Topol in the WSJ](https://www.wsj.com/articles/the-smart-medicine-solution-to-the-health-care-crisis-1499443449)
 
 ## Programming
 
