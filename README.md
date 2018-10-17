@@ -13,7 +13,7 @@ A list of resources to help you build your clinical applications and algorithms
 #### Electronic Health Records (EHRs/EMRs)
 - [The top 100 EHR companies](http://medicaleconomics.modernmedicine.com/medical-economics/content/tags/top100ehrs/top-100-ehr-companies-part-1-4)
 
-#### Genomics & Multi-omnis
+#### Genomics & Multi-omcis
 - [A Brief Guide to Genomics: DNA, Genes and Genomes](https://www.genome.gov/18016863/a-brief-guide-to-genomics/)
 
 #### Digital Biomarkers and Sensors
