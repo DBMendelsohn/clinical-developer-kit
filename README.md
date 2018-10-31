@@ -66,6 +66,7 @@ A list of resources to help you build your clinical applications and algorithms
 
 #### Open-source Data Interoperability Protocols
 - [FHIR/HL7](https://www.hl7.org/fhir/)
+- [ISPOR Health IT Assessment Resource Library](https://www.htacentral.org/resourcelibrary/)
 
 #### APIs and Integrations
 - [SMART](https://smarthealthit.org/)
